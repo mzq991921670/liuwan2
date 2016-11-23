@@ -1,0 +1,149 @@
+.con{
+	width: 1020px;
+	margin: 0 auto;
+	font-family: 微软雅黑;
+}
+.con1{
+	margin: 20px 0;
+}
+.con1 a,.con1 span{
+	color: #3c3c3c;
+	font-size: 14px;
+}
+.con2{
+	position: relative;
+	height: 152px;
+	background: url(../images/gl1.jpg) 0 0 no-repeat;
+}
+.con2_img{
+	position: absolute;
+	left: 20px;
+	top: 40px;
+}
+.con2 p{
+	font-size: 18px;
+	color: #fff;
+	position: absolute;
+	top: 67px;
+	left: 151px;
+}
+.con2 div{
+	font-size: 18px;
+	color: #3c3c3c;
+	position: absolute;
+	top: 129px;
+	left: 151px;
+}
+
+
+/* =======con3===== */
+.con3 ul{
+	overflow: hidden;
+}
+.con3 ul li{
+	width: 320px;
+	height: 235px;
+	float: left;
+	margin: 20px 10px;
+	position: relative;
+}
+.p2{
+	width: 313px;
+	height: 220px;
+	position: absolute;
+	top: 8px;
+	left: 8px;
+	background: #dcdcdc;
+}
+.p1{
+	width: 313px;
+	height: 220px;
+	position: absolute;
+	top: 13px;
+	left: 13px;
+	background: #bfbfbf;
+}
+.div1{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 319px;
+	height: 226px;
+}
+.div1 p{
+	width: 313px;
+	height: 220px;
+	border: 3px solid #8bb58b;
+	display: none;
+	position: relative;
+}
+.div1 p img{
+	position: absolute;
+	left: -13px;
+	top: 10px;
+}
+.div1:hover p{
+	display: block;
+}
+.div1 img{
+	position: absolute;
+	top: 3px;
+	left: 3px;
+	display: block;
+}
+.yy{
+	background: black;
+	opacity: 0.5;
+	width: 313px;
+	height: 50px;
+	position: absolute;
+	bottom: 13px;
+	left: 3px;
+}
+.zh1{
+	position: absolute;
+	bottom: 40px;
+	left: 22px;
+}
+.zh2{
+	position: absolute;
+	bottom: 16px;
+	left: 10px;
+	color: #fff;
+}
+.kdjq{
+	position: absolute;
+	bottom: 39px;
+	right: 88px;
+	color: #fff;
+}
+.pl1{
+	position: absolute;
+	bottom: 16px;
+	right: 121px;
+}
+.pl2{
+	position: absolute;
+	bottom: 16px;
+	right: 84px;
+	color: #fff;
+}
+.pl3{
+	position: absolute;
+	bottom: 16px;
+	right: 49px;
+}
+.pl4{
+	position: absolute;
+	bottom: 16px;
+	right: 10px;
+	color: #fff;
+}
+
+.hctj{
+	border: 2px solid #51b23e;
+	font-size: 28px;
+	width: 258px;
+	padding: 3px 0px 3px 20px;
+	margin-left: 20px;
+}

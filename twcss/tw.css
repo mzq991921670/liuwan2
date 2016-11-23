@@ -1,0 +1,141 @@
+.head_right_top,.head_left{
+	float: left;
+}
+.head{
+	overflow: hidden;
+	border-bottom: 4px solid #176fbb;
+}
+.head_left,.head_right{
+	float: left;
+}
+.head0{
+	width: 1000px;
+	margin: 0 auto;
+}
+.head_right_top{
+	margin-top: 24px;
+	margin-left: 200px;
+	overflow: hidden;
+}
+.head_right_top span{
+	font-family: 微软雅黑;
+	font-size: 14px;
+	color: #ffa000;
+	border-right: 2px solid #3c3c3c;
+	padding-right: 14px;
+	padding-left: 14px;
+}
+.head_right_top a,.head_right_top em{
+	font-family: 微软雅黑;
+	font-size: 14px;
+	color: #626262;
+}
+.head_right_top a{
+	border-right: 2px solid #3c3c3c;
+	padding-right: 14px;
+	padding-left: 14px;
+}
+.head_right_top input{
+	width: 153px;
+	height: 26px;
+	border: 1px solid #3c3c3c;
+	float: left;
+	margin-left: 15px;
+	position: relative;
+}
+.ss{
+	position: absolute;
+	top: 23px;
+}
+.dh,.sz,.dl,.zc,.suo,.xlx,.ss{
+	float: left;
+}
+.suo,.xlx{
+	margin-left: 12px;
+}
+.xlx{
+	margin-left: 55px;
+}
+.zc{
+	position: relative;
+}
+.suo{
+	position: absolute;
+	top: 17px;
+}
+.head_right_bottom img,.head_right_bottom a{
+	float: left;
+}
+.head_right{
+	overflow: hidden;
+}
+.head_right_bottom a{
+	font-size: 18px;
+	color: #3c3c3c;
+	margin-left: 36px;
+	font-family: 微软雅黑;
+}
+.head_right_bottom a:hover{
+	color: #176fbb;
+}
+.head_right_bottom{
+	margin-left: 56px;
+	margin-top: 80px;
+}
+.foot_top_1,.foot_top_2,.foot_top_3,.foot_top_4,.foot_top_5{
+	float: left;
+	padding-left: 78px;
+	margin-top: 22px;
+	margin-bottom: 22px;
+}
+.foot{
+	background-color: #023c4d;
+	height: 236px;
+}
+.foot_top{
+	width: 900px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.foot_top_1 li,.foot_top_2 li,.foot_top_3 li{
+	list-style: none;
+	font-size: 15px;
+	color: #fff;
+	font-family: 微软雅黑;i
+}
+.foot_top_1 p,.foot_top_2 p,.foot_top_3 p,.foot_top_4 p,.foot_top_5 p{
+	font-size: 18px;
+	font-family: 微软雅黑;
+	color: #fff;
+}
+.wb,.wx{
+
+	border-radius: 50px;
+}
+.foot_top_5 ul{
+	font-size: 28px;
+	font-family: 微软雅黑;
+	color: #fff;
+}
+.foot_top_5 ol{
+	width: 130px;
+	height: 25px;
+	background-color: #fff;
+	border-radius: 5px;
+	font-size: 14px;
+	color: #29505e;
+	font-family: 微软雅黑;
+	text-align: center;
+	line-height: 25px;
+}
+.foot_top_1 li,.foot_top_2 li,.foot_top_3 li,.foot_top_4 img,.foot_top_5 p,.foot_top ol{
+	margin-top: 12px;
+}
+.foot_bottom{
+	font-size: 14px;
+	color: #d0d0d0;
+	text-align: center;
+	font-family: 微软雅黑;
+	border-top: 1px solid #fff;
+	padding-top: 10px;
+}
